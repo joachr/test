@@ -1,1 +1,1 @@
-Test text file for git practice.
+Test text file for git practice. Now I've made a change.
